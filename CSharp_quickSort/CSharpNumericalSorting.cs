@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 namespace Cabinink.Algorithm
 {
    /// <summary>
-   /// 数值排序类，实现了几种常用的数值排序方法。
+   /// 数值排序类，实现了几种常用的数值排序方法，比如说快速排序等等。
    /// </summary>
    [Serializable]
    [ComVisible(true)]
